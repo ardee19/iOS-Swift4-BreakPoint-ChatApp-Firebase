@@ -15,6 +15,7 @@
 		6C2B1F301F394830004B53B6 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C2B1F2F1F394830004B53B6 /* AuthService.swift */; };
 		6C4254E71F3A887F00416194 /* MeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4254E61F3A887F00416194 /* MeVC.swift */; };
 		6C4254E91F3A975D00416194 /* CreatePostVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4254E81F3A975D00416194 /* CreatePostVC.swift */; };
+		6C5E0AC61F3C4EAF001384F2 /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5E0AC51F3C4EAF001384F2 /* UserCell.swift */; };
 		6C66681B1F3BD914005AA61A /* UIViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C66681A1F3BD914005AA61A /* UIViewExt.swift */; };
 		6C66681D1F3BEC3C005AA61A /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C66681C1F3BEC3C005AA61A /* Message.swift */; };
 		6C6F2BE71F3BF63000EB409A /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6F2BE61F3BF63000EB409A /* FeedCell.swift */; };
@@ -39,6 +40,7 @@
 		6C2B1F2F1F394830004B53B6 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		6C4254E61F3A887F00416194 /* MeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeVC.swift; sourceTree = "<group>"; };
 		6C4254E81F3A975D00416194 /* CreatePostVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePostVC.swift; sourceTree = "<group>"; };
+		6C5E0AC51F3C4EAF001384F2 /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
 		6C66681A1F3BD914005AA61A /* UIViewExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExt.swift; sourceTree = "<group>"; };
 		6C66681C1F3BEC3C005AA61A /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		6C6F2BE61F3BF63000EB409A /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				6C2B1F2A1F394085004B53B6 /* InsetTextField.swift */,
 				6C2B1F2D1F394591004B53B6 /* ShadowView.swift */,
 				6C6F2BE61F3BF63000EB409A /* FeedCell.swift */,
+				6C5E0AC51F3C4EAF001384F2 /* UserCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				6C2B1F301F394830004B53B6 /* AuthService.swift in Sources */,
 				6C95E2661F38F30C00606758 /* AppDelegate.swift in Sources */,
 				6C96C5291F3C427F009283DD /* CreateGroupsVC.swift in Sources */,
+				6C5E0AC61F3C4EAF001384F2 /* UserCell.swift in Sources */,
 				6C6F2BE71F3BF63000EB409A /* FeedCell.swift in Sources */,
 				6C2B1F2E1F394591004B53B6 /* ShadowView.swift in Sources */,
 				6C4254E91F3A975D00416194 /* CreatePostVC.swift in Sources */,
