@@ -22,7 +22,7 @@ class GroupFeedVC: UIViewController {
     var group: Group!
     var groupMessages = [Message]()
     
-    func initGroupData(forGroup group: Group) {
+    func initData(forGroup group: Group) {
         self.group = group
     }
     
@@ -54,7 +54,7 @@ class GroupFeedVC: UIViewController {
     }
     
     @IBAction func backButtonPressed(_ sender: Any) {
-        dismiss(animated: true, completion: nil)
+        dismissDetail()
     }
     
     @IBAction func sendPressed(_ sender: Any) {
